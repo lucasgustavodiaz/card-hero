@@ -21,14 +21,14 @@ h1 {
 }
 
 .cards {
-    margin: 100px 0 100px;
+    margin: 150px 30px;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    gap: 30px;
     flex-wrap: wrap;
 }
 
 .card {
-    margin: 50px 15px;
     box-sizing: border-box;
     width: 300px;
     background-color: #F3F3F3;
